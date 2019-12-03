@@ -1,0 +1,10 @@
+/.idea/
+*.iml
+target
+
+work
+work/*
+work/logs
+work/logs/*
+*.log
+out_*.log
